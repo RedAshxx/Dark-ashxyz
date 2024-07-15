@@ -1,0 +1,23 @@
+#video{
+position: relative;
+bottom: -50px;
+right: -500px;
+box-sizing:content-box;
+box-shadow: 100%;
+border-color: red;
+transition: 3s;
+
+
+}
+
+#music{
+    position: relative;
+    bottom: -50px;
+    right: -505px;
+    box-sizing:content-box;
+    box-shadow: 100%;
+    border-color: red;
+    transition: 3s;
+    
+    
+    }

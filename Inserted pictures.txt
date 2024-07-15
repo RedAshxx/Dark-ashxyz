@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+
+
+
+
+</head>
+
+
+
+<body>
+
+<img src="img.jpg">
+<input type="files>
+
+
+
+
+
+</body>
+
+
+
+
+</html>

@@ -1,0 +1,55 @@
+*{
+
+
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+   
+    
+    }
+    
+    
+    html{
+    
+    background-color: #fff;
+    color: #555;
+    font-family: "Lato","Verdana";
+    font-size: 20px;
+    text-rendering: optimizeLegibility;
+    scroll-behavior:auto;
+  
+    
+    }
+    
+    
+    
+    
+    body{
+    
+    
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    background-image: url(bg.jpg);
+    background-position: center;
+    background-size: cover;
+    text-transform: none;
+    text-decoration: none;
+    cursor: url("logo.png");
+    background-attachment: fixed;
+    
+    
+    }
+    
+    
+    #ML1{
+
+        display: flex;
+        justify-content: space-between;
+        
+        
+        
+        
+        
+        }
+        
+        

@@ -1,0 +1,96 @@
+.form1{
+font-weight: bolder;
+display: inline-block;
+box-shadow: 50px;
+position: relative;
+left: 250px;
+background-color: aliceblue;
+border: bottom 50px;
+border-style: groove ;
+border-left-color: aqua;
+border-left: 100%;
+border-top-color: yellow;
+border-top: 100%;
+border-right-color: red;
+border-right: 100%;
+border-bottom: 100%;
+border-bottom-color: blueviolet;
+box-sizing:border-box
+
+
+
+}
+
+#Email{
+    position:relative;
+    text-align: center,right;
+    line-height: 1.5px;
+    margin-bottom: 0%;
+    padding-bottom: 0%;
+    white-space-trim: ;
+    right: -35px;
+    bottom: -10px;
+
+
+
+
+}
+
+#Password{
+margin: 0%;
+padding: 0%;
+position:absolute;
+text-align: center,right;
+line-height: 1.5px;
+left: 200px;
+top: 45px;
+
+    
+}
+
+#Firstname{
+
+ margin: 0%;
+padding: 0%;
+position:absolute;
+right: 240px;
+top: 90px;
+
+
+
+}
+
+#Lastname{
+
+
+    margin: 0%;
+    padding: 0%;
+    position:absolute;
+    text-align: center,right;
+    line-height: 1.5px;
+    left: 200px;
+    top: 100px;
+
+
+}
+#Birthdate{
+
+margin: 0%;
+padding: 0%;
+position: absolute;
+text-align: center;
+right: 135px;
+top: 133px;
+
+
+
+
+}
+#Email:hover{
+box-sizing: border-box;
+animation-delay: 10s;
+
+
+
+
+}

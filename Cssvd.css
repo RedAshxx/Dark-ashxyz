@@ -1,0 +1,168 @@
+
+
+
+
+#Videoline1
+{
+
+position: absolute;
+bottom: 100px;
+left: 20px;
+box-sizing: border-box;
+border-style: groove;
+border-width: 10px;
+background-color: white;
+
+}
+
+#Videoline2{
+position:absolute;
+bottom: 100px;
+left: 350px;
+box-sizing: border-box;
+border-style: groove;
+border-width: 10px;
+background-color: white;
+
+
+}
+
+#Videoline3{
+    position:absolute;
+    bottom: 100px;
+    left: 690px;
+    box-sizing: border-box;
+    border-style: groove;
+    border-width: 10px;
+    background-color: white;
+    
+
+}
+
+#Videoline4{
+    position:absolute;
+    bottom: 100px;
+    left: 1000px;
+    box-sizing: border-box;
+    border-style: groove;
+    border-width: 10px;
+    background-color: white;
+    
+
+}
+
+#Videoline5{
+    position:absolute;
+    bottom: -350px;
+    left: 20px;
+    box-sizing: border-box;
+    border-style: groove;
+    border-width: 10px;
+    background-color: white;
+    
+
+}
+
+
+#Videoline6{
+    position:absolute;
+    bottom: -350px;
+    left: 350px;
+    box-sizing: border-box;
+    border-style: groove;
+    border-width: 10px;
+    background-color: white;
+    
+
+}
+
+
+#Videoline7{
+    position:absolute;
+    bottom: -350px;
+    left: 690px;
+    box-sizing: border-box;
+    border-style: groove;
+    border-width: 10px;
+    background-color: white;
+    
+
+}
+
+#Videoline8{
+    position:absolute;
+    bottom: -350px;
+    left: 1000px;
+    box-sizing: border-box;
+    border-style: groove;
+    border-width: 10px;
+    background-color: white;
+    
+
+}
+
+#Videoline9{
+    position:absolute;
+    bottom: -800px;
+    left: 20px;
+    box-sizing: border-box;
+    border-style: groove;
+    border-width: 10px;
+    background-color: white;
+    
+
+}
+
+#Videoline10{
+    position:absolute;
+    bottom: -800px;
+    left: 350px;
+    box-sizing: border-box;
+    border-style: groove;
+    border-width: 10px;
+    background-color: white;
+    
+    
+    }
+
+
+    #Videoline11{
+        position:absolute;
+        bottom: -800px;
+        left: 690px;
+        box-sizing: border-box;
+        border-style: groove;
+        border-width: 10px;
+        background-color: white;
+    }    
+
+
+    #Videoline12{
+        position:absolute;
+        bottom: -800px;
+        left: 1000px;
+        box-sizing: border-box;
+        border-style: groove;
+        border-width: 10px;
+        background-color: white;
+    }    
+
+
+    #search{
+ display: flex;
+  position: relative;
+  box-sizing: border-box;
+  justify-content: center;
+  max-width: 100%;
+  width: 1000px;
+  height: 50px;
+  left: 150px;
+ font-size: 50px;
+ .
+    border-radius: 10px; /* You can adjust the value to control the roundness */
+    border: 2px solid #000; /* You can customize the border color and width */
+    padding: 10px; /* Add padding to ensure content is not too close to the border */
+  }
+  
+
+
